@@ -1,2 +1,2 @@
 # SI-Manual-Testing-Internship-Project
-Manual Testing Project
+Manual Testing BLUESTONE Project
